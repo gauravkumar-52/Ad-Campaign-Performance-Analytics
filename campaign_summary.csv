@@ -1,0 +1,4 @@
+Campaign,Spend,Impressions,Clicks,Total_Conversions,Approved_Conversions,CTR,Conversion_Rate,Approved_Conversions_per_Spend,Cost_Per_Approved_Conversion
+Campaign A,149.71,482925,113,58,24,0.0234,51.3274,0.1603,6.2379
+Campaign B,2893.37,8128187,1984,537,183,0.0244,27.0665,0.0632,15.8108
+Campaign C,55662.15,204823716,36068,2669,872,0.0176,7.3999,0.0157,63.8327
